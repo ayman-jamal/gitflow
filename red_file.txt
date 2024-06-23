@@ -1,3 +1,5 @@
 Hi I am Red
 
 - create-customer-db has been done.
+
+-ready to release.
