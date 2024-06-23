@@ -1,0 +1,3 @@
+Hi I am Red
+
+- create-customer-db has been done.
